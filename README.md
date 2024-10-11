@@ -3,7 +3,7 @@
 
 This is a POC to have puppet secret values looked up from Infisical
 
-This module dos NOT setup Infisical 
+This module does NOT setup Infisical 
 
 It will query a secret from an infisical server so it can be used in a puppet project
 
